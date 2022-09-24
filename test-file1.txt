@@ -2,3 +2,7 @@ this is the first commit to this text file
 
 
 this is my new feature
+
+someone on my PR request asked me to add this new line
+
+I might add this line too for this pull request
